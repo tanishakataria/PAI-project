@@ -1,4 +1,7 @@
- # projec members : Emaan : 23i-25260 , Yesaullahsheikh : 23k-0019 , Tanisha : 23k-0067
+ ### Project Members : 
+ * Emaan : 23i-25260
+ * Yesaullahsheikh : 23k-0019
+ *  Tanisha : 23k-0067
 
 # Loan Prediction Analysis
 
