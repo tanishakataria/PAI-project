@@ -15,11 +15,6 @@ This project aims to build a loan prediction model using logistic regression. Th
 - `streamlit_gui.py`: Python script for the Streamlit GUI.
 - `loan_prediction.csv`: Dataset used for training the model.
 - `loan_test.csv`: Dataset used for testing the model.
-- `correlation_plot.png`: Image showing the correlation plot of features.
-- `feature_distributions.png`: Image showing the distributions of features.
-- `feature_importance.png`: Image showing the importance of features.
-- `train_confusion_matrix.png`: Image showing the confusion matrix for the training set.
-- `val_confusion_matrix.png`: Image showing the confusion matrix for the validation set.
 - `README.md`: This readme file.
 
 ## How to Run
@@ -55,14 +50,6 @@ streamlit run streamlit_gui.py
 The dataset used for this project is included in the repository:
 - `loan_prediction.csv`: Contains the training data for loan predictions.
 - `loan_test.csv`: Contains the test data for evaluating the model.
-
-## Results
-
-- `correlation_plot.png`: Shows the correlation between different features.
-- `feature_distributions.png`: Displays the distribution of features.
-- `feature_importance.png`: Highlights the importance of each feature.
-- `train_confusion_matrix.png`: Shows the confusion matrix for the training set.
-- `val_confusion_matrix.png`: Shows the confusion matrix for the validation set.
 
 ## Conclusion
 
